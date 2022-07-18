@@ -17,3 +17,10 @@ section{
 .half-width img {
     width: 100%;
 }
+.link_button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+}
